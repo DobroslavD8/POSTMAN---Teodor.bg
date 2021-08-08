@@ -8,6 +8,6 @@
 
 📍 Functionality: [Check if the page returns code 200](https://www.postman.com/blue-escape-340957/workspace/live-workspace/folder/16041304-75f2fd88-f437-42e3-8157-7c8c57ad2f91?ctx=documentation)🔗
 
-📍 Security: [Check if the page has a security about XSS and Frame check](https://www.postman.com/blue-escape-340957/workspace/live-workspace/folder/16041304-1ef9bddd-46cf-43f0-8abb-15545c74ca02?ctx=documentation)🔗
+📍 Security: [XSS and Frame security check](https://www.postman.com/blue-escape-340957/workspace/live-workspace/folder/16041304-1ef9bddd-46cf-43f0-8abb-15545c74ca02?ctx=documentation)🔗
 
 📍 Integration: [Testing all active links on a page](https://www.postman.com/blue-escape-340957/workspace/live-workspace/folder/16041304-b9801329-a9ea-4bbc-b48a-3d2c95dbbf9e?ctx=documentation)🔗
